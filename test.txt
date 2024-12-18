@@ -1,0 +1,1 @@
+python .\test.py --weights .\best_model.pth

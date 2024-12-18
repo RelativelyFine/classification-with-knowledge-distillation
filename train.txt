@@ -1,0 +1,4 @@
+python .\train.py
+python .\kd_train.py --distil_type response
+python .\kd_train.py --distil_type feature
+python .\kd_train.py --distil_type both
